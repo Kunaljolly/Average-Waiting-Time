@@ -8,7 +8,6 @@ When a customer arrives, he gives the chef his order, and the chef starts prepar
 
 Return the average waiting time of all customers. Solutions within 10-5 from the actual answer are considered accepted.
 
- 
 
 Example 1:
 
